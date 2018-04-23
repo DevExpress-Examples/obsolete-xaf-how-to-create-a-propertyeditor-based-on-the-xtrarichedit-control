@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<BOModel>
+		<Class Name="WinSolution.Module.Document">
+			<Member Name="Body" PropertyEditorType="WinSolution.Module.Win.RichEditPropertyEditor" />
+		</Class>
+	</BOModel>
+</Application>
