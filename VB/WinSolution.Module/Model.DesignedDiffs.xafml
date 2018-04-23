@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="WinSolution" Logo="ExpressAppLogo">
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="11.1.7.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="Document_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SizeableEditors">
+            <LayoutItem Id="Text" ShowCaption="False" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="Document_ListView">
+      <Columns>
+        <ColumnInfo Id="Subject" Width="100" />
+        <ColumnInfo Id="Text" Index="1" Width="100" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>
