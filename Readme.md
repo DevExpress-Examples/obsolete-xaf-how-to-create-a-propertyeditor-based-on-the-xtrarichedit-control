@@ -1,3 +1,10 @@
+UPDATE:
+Starting with 18.1, we introduced <a href="https://docs.devexpress.com/eXpressAppFramework/400003/concepts/extra-modules/office-module/office-module-overview">Office Module</a>. This module provides RichTextPropertyEditor with an ability to work with rich text properties.
+ 
+So we suggest using the new editor in new applications. The current example won't be developed anymore.
+ 
+
+
 # How to create a PropertyEditor based on the XtraRichEdit control
 
 
