@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MergeRibbonsDetailViewController.cs](./CS/WinSolution.Module.Win/MergeRibbonsDetailViewController.cs)
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module.Win/Model.DesignedDiffs.xafml))
+* [RichEditPropertyEditor.cs](./CS/WinSolution.Module.Win/RichEditPropertyEditor.cs) (VB: [RichEditPropertyEditor.vb](./VB/WinSolution.Module.Win/RichEditPropertyEditor.vb))
+* [RichEditUserControl.cs](./CS/WinSolution.Module.Win/RichEditUserControl.cs) (VB: [RichEditUserControl.vb](./VB/WinSolution.Module.Win/RichEditUserControl.vb))
+* [RichEditUserControl.Designer.cs](./CS/WinSolution.Module.Win/RichEditUserControl.Designer.cs)
+<!-- default file list end -->
 # How to create a PropertyEditor based on the XtraRichEdit control
 
 
