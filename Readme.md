@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MergeRibbonsDetailViewController.cs](./CS/WinSolution.Module.Win/MergeRibbonsDetailViewController.cs) (VB: [MergeRibbonsDetailViewController.vb](./VB/WinSolution.Module.Win/MergeRibbonsDetailViewController.vb))
+* [RichEditPropertyEditor.cs](./CS/WinSolution.Module.Win/RichEditPropertyEditor.cs) (VB: [RichEditPropertyEditor.vb](./VB/WinSolution.Module.Win/RichEditPropertyEditor.vb))
+* [RichEditUserControl.cs](./CS/WinSolution.Module.Win/RichEditUserControl.cs) (VB: [RichEditUserControl.vb](./VB/WinSolution.Module.Win/RichEditUserControl.vb))
+* [RichEditUserControl.Designer.cs](./CS/WinSolution.Module.Win/RichEditUserControl.Designer.cs)
+* [Document.cs](./CS/WinSolution.Module/Document.cs) (VB: [Document.vb](./VB/WinSolution.Module/Document.vb))
+<!-- default file list end -->
 <strong> UPDATE: </strong>
 Use the <a href="https://docs.devexpress.com/eXpressAppFramework/400002/concepts/extra-modules/office-module">Office Module</a> to integrate <a href="https://www.devexpress.com/Products/NET/Controls/WinForms/Rich_Editor/">DevExpress WinForms Rich Text Editor</a> in all new XAF WinForms applications. The current example is obsolete.
 
