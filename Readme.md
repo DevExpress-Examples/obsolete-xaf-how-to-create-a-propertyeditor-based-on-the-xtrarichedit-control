@@ -7,12 +7,13 @@
 * [RichEditUserControl.Designer.cs](./CS/WinSolution.Module.Win/RichEditUserControl.Designer.cs)
 * [Document.cs](./CS/WinSolution.Module/Document.cs) (VB: [Document.vb](./VB/WinSolution.Module/Document.vb))
 <!-- default file list end -->
-<strong> UPDATE: </strong>
-Use the <a href="https://docs.devexpress.com/eXpressAppFramework/400002/concepts/extra-modules/office-module">Office Module</a> to integrate <a href="https://www.devexpress.com/Products/NET/Controls/WinForms/Rich_Editor/">DevExpress WinForms Rich Text Editor</a> in all new XAF WinForms applications. The current example is obsolete.
+
 
 
 # OBSOLETE - How to create a PropertyEditor based on the XtraRichEdit control
 
+<strong> UPDATE: </strong>
+Use the <a href="https://docs.devexpress.com/eXpressAppFramework/400002/concepts/extra-modules/office-module">Office Module</a> to integrate <a href="https://www.devexpress.com/Products/NET/Controls/WinForms/Rich_Editor/">DevExpress WinForms Rich Text Editor</a> in all new XAF WinForms applications. The current example is obsolete.
 
 Take special note that this editor is intended to be used for a simple and most common scenario when only one text property in a Detail View is edited with the help of the XtraRichEdit control (RichEditControl). Other scenarios are not supported in this example and are required to be implemented manually. For example, if there are more than one property, edited with this editor in a Detail View, then there may be problems with merging in ribbons. See the <a href="https://www.devexpress.com/Support/Center/p/B142856">B142856</a> issue for more detailed information.<br><br></p>
 <p><strong>Important Notes<br>1.</strong> Please take special note that this example is not a complete solution and is supposed to be further tested and modified by you according to your business requirements.</p>
